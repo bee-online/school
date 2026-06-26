@@ -4,7 +4,7 @@ include('database/dbconfig.php');
 
 if($connection)
 {
-    // echo "Database Connected";
+     echo "Database Connected";
 }
 else
 {
